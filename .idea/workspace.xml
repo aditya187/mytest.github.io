@@ -3,26 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="42eba5c6-4c28-47b8-b407-4034a3d7c2a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/dist/css/app.1cb140d8ba31d5b2f1114537dd04802a.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/dist/js/app.3fc0f988d21662902933.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/gohugo-default-sample-hero-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/second/ipad1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/third/ipad1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/third/ipad2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/my-first-post/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/page/1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/the-second/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/the-third/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state>
+              <caret column="55" selection-start-column="55" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -199,8 +179,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state>
+          <caret column="55" selection-start-column="55" selection-end-column="55" />
         </state>
       </provider>
     </entry>

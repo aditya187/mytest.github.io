@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Katara Ice Cream Corner</title>
-    <link>http://example.org/posts/</link>
+    <link>https://aditya187.github.io/mytest.github.io/posts/</link>
     <description>Recent content in Posts on Katara Ice Cream Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 May 2020 18:05:35 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aditya187.github.io/mytest.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://aditya187.github.io/mytest.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 21 May 2020 18:05:35 -0400</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://aditya187.github.io/mytest.github.io/posts/my-first-post/</guid>
       <description>this is my first static site. Hi all. This is a test of the locally hosted Hugo static site.
 Photography workflow!
 https://paulstamatiou.com/storage-for-photographers-part-2/
@@ -25,20 +25,20 @@ Cupertino, California — Apple today updated the 13-inch MacBook Pro with the n
     
     <item>
       <title>The Second</title>
-      <link>http://example.org/posts/the-second/</link>
+      <link>https://aditya187.github.io/mytest.github.io/posts/the-second/</link>
       <pubDate>Thu, 21 May 2020 18:05:35 -0400</pubDate>
       
-      <guid>http://example.org/posts/the-second/</guid>
+      <guid>https://aditya187.github.io/mytest.github.io/posts/the-second/</guid>
       <description>The new Magic Keyboard for iPad Pro is now available to order on apple.com and begins arriving to customers next week. Magic Keyboard brings a whole new level of versatility and capability to iPad Pro, and is the best way to experience the new trackpad support introduced in iPadOS 13.4.
 Magic Keyboard attaches magnetically to iPad Pro, putting the beautiful Multi-Touch screen up on display with a floating cantilevered design for smooth adjustments of the viewing angle up to 130 degrees.</description>
     </item>
     
     <item>
       <title>The Third</title>
-      <link>http://example.org/posts/the-third/</link>
+      <link>https://aditya187.github.io/mytest.github.io/posts/the-third/</link>
       <pubDate>Thu, 21 May 2020 18:05:35 -0400</pubDate>
       
-      <guid>http://example.org/posts/the-third/</guid>
+      <guid>https://aditya187.github.io/mytest.github.io/posts/the-third/</guid>
       <description>iPad Pro 2020 Cupertino, California — Apple today announced its most advanced iPad Pro. Now with the A12Z Bionic chip, iPad Pro is faster and more powerful than most Windows PC laptops. The new iPad Pro adds an Ultra Wide camera, studio-quality mics and a breakthrough LiDAR Scanner that delivers cutting-edge depth-sensing capabilities, opening up more pro workflows and supporting pro photo and video apps. The LiDAR Scanner, along with pro cameras, motion sensors, pro performance, pro audio, the stunning Liquid Retina display and powerful apps, extends the lead of iPad Pro as the world’s best device for augmented reality (AR).</description>
     </item>
     

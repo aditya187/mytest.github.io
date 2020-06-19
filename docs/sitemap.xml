@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://aditya187.github.io/mytest.github.io/</loc>
     <lastmod>2020-05-21T18:05:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://aditya187.github.io/mytest.github.io/posts/my-first-post/</loc>
     <lastmod>2020-05-21T18:05:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://aditya187.github.io/mytest.github.io/posts/</loc>
     <lastmod>2020-05-21T18:05:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/the-second/</loc>
+    <loc>https://aditya187.github.io/mytest.github.io/posts/the-second/</loc>
     <lastmod>2020-05-21T18:05:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/the-third/</loc>
+    <loc>https://aditya187.github.io/mytest.github.io/posts/the-third/</loc>
     <lastmod>2020-05-21T18:05:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://aditya187.github.io/mytest.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://aditya187.github.io/mytest.github.io/tags/</loc>
   </url>
   
 </urlset>
